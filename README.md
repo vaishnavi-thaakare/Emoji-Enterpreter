@@ -1,2 +1,2 @@
-# Reac
+# React
 Created with CodeSandbox
